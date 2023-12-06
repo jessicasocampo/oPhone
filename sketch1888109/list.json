@@ -1,0 +1,24 @@
+{
+   "toiletries":[
+      {
+         "tp":"toothpaste",
+         "toiletp":"toilet paper",
+         "soap":"bars of soap",
+         "cond":"head & shoulders conditioner"
+      }
+   ],
+   "food":[
+      {
+         "chick":"chicken breasts",
+         "oj":"orange juice boxes",
+         "cel":"celery sticks"
+      }
+   ],
+   "utilities":[
+      {
+         "charg":"laptop charger",
+         "wine":"wine glasses",
+         "hair":"hair ties"
+      }
+   ]
+}
